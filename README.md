@@ -1,6 +1,7 @@
 # Used-Cars
 Objective: 
 1. Create a Power BI dashboard showing cars data varying with various parameters eg, Engine(CC),Mileage(kmpl),location,etc.
+
 Steps followed overview:
 1. We import raw data which we first clean and modify using python
 2. We edit the columns like Mileage which has values with units together eg.Engine value - 998 CC we split the the number with str.replace("CC"," ") or str.split().str.get(0) to get the number alone then change the data type from object to float by astype(float),

@@ -14,4 +14,4 @@ Steps followed overview:
 8. Repeat the same as above with the Seats column and convert the data to integer from float .
 9. Make a csv of the completed and cleaned data by to_csv and download the data.
 10. Open the data in Power BI and check for any irregularities.
-11. Finally create a dashbord of the data to represent various changing parameters with slicers to get an overview of the cleaned data at hand for actionable insights.
+11. Finally create a dashboard of the data to represent various changing parameters with slicers to get an overview of the cleaned data at hand for actionable insights.
